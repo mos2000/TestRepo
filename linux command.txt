@@ -1,2 +1,4 @@
 cat /proc/cpuinfo
 df –BM
+{Visual Studio Code.
+Sublime Text.}
