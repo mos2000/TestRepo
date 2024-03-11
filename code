@@ -6,5 +6,9 @@ public class S1 {
        int number1,number2,sum;
          System.out.print("enter number 1 :");
        number1=input.nextInt();
+System.out.print("enter number 2 :");
+       number2=input.nextInt();
+       sum=number1+number2;
+       System.out.printf("%s%d\n","SUM :",sum);
     }
 }
