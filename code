@@ -1,14 +1,16 @@
 import java.util.Scanner;
 public class S1 {
-
+    
     public static void main(String[] args) {
-      Scanner input= new Scanner(System.in);
+      
+        Scanner input= new Scanner(System.in);
        int number1,number2,sum;
          System.out.print("enter number 1 :");
        number1=input.nextInt();
-System.out.print("enter number 2 :");
+        System.out.print("enter number 2 :");
        number2=input.nextInt();
        sum=number1+number2;
        System.out.printf("%s%d\n","SUM :",sum);
     }
+    
 }
