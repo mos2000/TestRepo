@@ -1,1 +1,2 @@
 cat /proc/cpuinfo
+df –BM
