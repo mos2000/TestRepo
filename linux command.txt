@@ -3,3 +3,5 @@ df –BM
 {Visual Studio Code.
 Sublime Text.}
 # lspci | egrep -i --color 'network|ethernet'
+"find {/path/to/directory/} -type f -size +{size-in-kb}k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
+
